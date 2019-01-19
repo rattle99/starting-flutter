@@ -1,4 +1,0 @@
-#Sat Jan 19 22:31:53 IST 2019
-base.0=/home/rattle/Programming/github/starting-flutter/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
